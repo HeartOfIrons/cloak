@@ -16,3 +16,8 @@ Useful for:
 | [Native Lua](https://luau-lang.org)
 
 | [LuaU](https://create.roblox.com)
+
+| [Ruby](https://www.ruby-lang.org/en/)
+
+| [C++](https://cplusplus.com)
+
