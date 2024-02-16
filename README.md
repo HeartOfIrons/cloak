@@ -17,7 +17,7 @@ Useful for:
 
 | [LuaU](https://create.roblox.com) - [Cloaker](https://github.com/HeartOfIrons/cloak/blob/main/clker.lua)
 
-| [Ruby](https://www.ruby-lang.org/en/)
+| [Ruby](https://www.ruby-lang.org/en/) - [Cloaker](https://github.com/HeartOfIrons/cloak/blob/main/clker.ru)
 
 | [C++](https://cplusplus.com) - [Cloaker](https://github.com/HeartOfIrons/cloak/blob/main/clker.c)
 
