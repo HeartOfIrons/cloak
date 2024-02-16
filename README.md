@@ -19,5 +19,5 @@ Useful for:
 
 | [Ruby](https://www.ruby-lang.org/en/)
 
-| [C++](https://cplusplus.com)
+| [C++](https://cplusplus.com) - [Cloaker](https://github.com/HeartOfIrons/cloak/blob/main/clker.c)
 
