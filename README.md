@@ -11,7 +11,7 @@ Cloaker for multiple languages and project usage among other usage.
 
 Useful for:
 
-< Language - Cloaker URL/file >
+<! Language - Cloaker URL/file >
 
 | [Lua](https://luau-lang.org) - [Cloaker](https://github.com/HeartOfIrons/cloak/blob/main/clker.lua)
 
