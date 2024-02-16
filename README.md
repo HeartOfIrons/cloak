@@ -7,9 +7,12 @@ Made possible by [encoders.](discord.gg)
 
 # INFORMATION #
 
-Cloaker.
+Cloaker for multiple languages and project usage among other usage.
 
 Useful for:
-Lua
-Native Lua
-LuaU
+
+| [Lua](https://luau-lang.org)
+
+| [Native Lua](https://luau-lang.org)
+
+| [LuaU](https://create.roblox.com)
