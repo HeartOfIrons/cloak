@@ -11,11 +11,11 @@ Cloaker for multiple languages and project usage among other usage.
 
 Useful for:
 
-| [Lua](https://luau-lang.org)
+| [Lua](https://luau-lang.org) - [Cloaker](https://github.com/HeartOfIrons/cloak/blob/main/clker.lua)
 
-| [Native Lua](https://luau-lang.org)
+| [Native Lua](https://luau-lang.org) - [Cloaker](https://github.com/HeartOfIrons/cloak/blob/main/clker.lua)
 
-| [LuaU](https://create.roblox.com)
+| [LuaU](https://create.roblox.com) - [Cloaker](https://github.com/HeartOfIrons/cloak/blob/main/clker.lua)
 
 | [Ruby](https://www.ruby-lang.org/en/)
 
